@@ -14,7 +14,6 @@
 			<class name="com.nocomerce.user.Level_04_Multiple_Browser" />
 		</classes>
 	</test>
-
 	<test name="Run on Edge">
 		<parameter name="browser" value="edge" />
 		<classes>
@@ -22,7 +21,7 @@
 		</classes>
 	</test>
 	<test name="Run on Coccoc">
-		<parameter name="browser" value="cococ" />
+		<parameter name="browser" value="coccoc" />
 		<classes>
 			<class name="com.nocomerce.user.Level_04_Multiple_Browser" />
 		</classes>
